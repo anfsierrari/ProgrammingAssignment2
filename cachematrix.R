@@ -1,5 +1,5 @@
 ## Hello! The functions receive a matrix as argument and calculate it inverse 
-## by the function solve(). If there is a stored matrix in cache it retrieves 
+## by the function solve(). If there is a stored matrix in cache it retrieves it
 ## instead of calculate it.
 
 
